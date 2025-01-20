@@ -1,7 +1,7 @@
 Task Description:
 
-Date:19-01-25: 
-1.Welcome to Bridgelabz! 
+Date:19-01-25:  
+1.Welcome to Bridgelabz!  
 2.Add two numbers 
 3.Celsius to Fahrenheit conversion 
 4.Area of a Circle 
