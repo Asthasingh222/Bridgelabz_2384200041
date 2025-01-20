@@ -1,13 +1,13 @@
 Task Description:
 
-Date:19-01-25: \n
-1.Welcome to Bridgelabz! \n
-2.Add two numbers \n
-3.Celsius to Fahrenheit conversion \n
-4.Area of a Circle \n
-5.Volume of a Cylinder \n
-6.Calculate SI \n
-7.Perimeter of a Rectangle \n
-8.Power Calculation \n
-4.Calculate Average of Three Numbers \n
-5.Convert km to miles \n
+Date:19-01-25: 
+1.Welcome to Bridgelabz! 
+2.Add two numbers 
+3.Celsius to Fahrenheit conversion 
+4.Area of a Circle 
+5.Volume of a Cylinder 
+6.Calculate SI 
+7.Perimeter of a Rectangle 
+8.Power Calculation 
+4.Calculate Average of Three Numbers 
+5.Convert km to miles 
