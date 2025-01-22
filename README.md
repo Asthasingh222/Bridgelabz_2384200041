@@ -1,16 +1,15 @@
 Task Description:
 
-<<<<<<< HEAD
-Date:19-01-25:
-1.Welcome to Bridgelabz!
-2.Add two numbers
+Date:19-01-25:  
+1.Welcome to Bridgelabz!  
+2.Add two numbers  
 3.Celsius to Fahrenheit conversion  
-4.Area of a Circle
-5.Volume of a Cylinder
-6.Calculate SI
-7.Perimeter of a Rectangle
-8.Power Calculation
-4.Calculate Average of Three Numbers
+4.Area of a Circle  
+5.Volume of a Cylinder  
+6.Calculate SI  
+7.Perimeter of a Rectangle  
+8.Power Calculation  
+4.Calculate Average of Three Numbers  
 5.Convert km to miles  
 
 
@@ -31,16 +30,4 @@ Date:21-01-25:
 14.Convert distance in feet to yards and miles.  
 15.Calculate the total price of items from unit price and quantity.  
 16.Find the maximum handshakes possible among N students.  
-=======
-Date:19-01-25:  
-1.Welcome to Bridgelabz!  
-2.Add two numbers 
-3.Celsius to Fahrenheit conversion  
-4.Area of a Circle  
-5.Volume of a Cylinder  
-6.Calculate SI  
-7.Perimeter of a Rectangle  
-8.Power Calculation  
-9.Calculate Average of Three Numbers  
-10.Convert km to miles 
->>>>>>> 88169060a8de22b4693739ffd31bada6c944a552
+
