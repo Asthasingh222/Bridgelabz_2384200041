@@ -31,3 +31,11 @@ Date:21-01-25:
 15.Calculate the total price of items from unit price and quantity.  
 16.Find the maximum handshakes possible among N students.  
 
+Date:22-01-25:  
+C# Comments  
+C# Basic Data Types  
+C# Variables  
+Arithmetic Operators  
+Operator Precedence  
+Type Conversion  
+Taking User Input in Programs  
