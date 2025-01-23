@@ -39,3 +39,13 @@ Arithmetic Operators
 Operator Precedence  
 Type Conversion  
 Taking User Input in Programs  
+
+Date:23-01-25:  
+1. C# Control Flows  
+2. C# boolean Data Type  
+3. Boolean Expressions  
+4. Logical Operators  
+5. if Conditional Statement along with else if and final else statement  
+6. C# loops - for and while  
+7. C# break and continue statement  
+8. C# switch Statement  
