@@ -61,3 +61,12 @@ Date:25-01-25:
 8. C# 2 Dimensional Array (Matrix)  
 9. Accessing, finding size, etc of Multi-Dimensional Array  
 10. Using C# Console.Error.WriteLine() Message and Environment.Exit() Method  
+
+Date:28-01-25:  
+1. User-Defined Methods  
+2. Using Methods Multiple Times  
+3. Making Methods More Dynamic  
+4. Recursive Methods  
+5. Static Methods in C#  
+6. .NET Standard Library Methods  
+7. System.Math Class in C#  
