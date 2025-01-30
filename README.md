@@ -70,3 +70,18 @@ Date:28-01-25:
 5. Static Methods in C#  
 6. .NET Standard Library Methods  
 7. System.Math Class in C#  
+
+Date:30-01-25:  
+1. C# Strings  
+2. Create Strings  
+3. Use of "\\" Escape Sequence  
+4. Take String Input  
+5. String Arrays  
+6. String as Method Parameters  
+7. String Class Built-In Methods  
+8. ASCII Character Codes  
+9. C# Exceptions  
+10. C# Exception Hierarchy  
+11. C# Exception Types  
+12. System.Exception or Unchecked Exceptions  
+13. Checked Exceptions  
