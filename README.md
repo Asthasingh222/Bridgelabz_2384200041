@@ -85,3 +85,10 @@ Date:30-01-25:
 11. C# Exception Types  
 12. System.Exception or Unchecked Exceptions  
 13. Checked Exceptions  
+
+Date:31-01-25:  
+Introduce a few common built-in functions - Random, Math  
+Introduce Date and time are essential in many applications.  
+From showing the current date on a website to scheduling events.  
+Procedural vs Object-oriented Programming Language  
+Class and Object  
