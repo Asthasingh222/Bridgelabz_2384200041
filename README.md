@@ -92,3 +92,8 @@ Introduce Date and time are essential in many applications.
 From showing the current date on a website to scheduling events.  
 Procedural vs Object-oriented Programming Language  
 Class and Object  
+
+Date:02-02-25:  
+- C# Constructors,   
+- Instance vs. Class Variables,   
+- Access Modifiers Concepts  
