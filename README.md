@@ -32,13 +32,13 @@ Date:21-01-25:
 16.Find the maximum handshakes possible among N students.  
 
 Date:22-01-25:  
-C# Comments  
-C# Basic Data Types  
-C# Variables  
-Arithmetic Operators  
-Operator Precedence  
-Type Conversion  
-Taking User Input in Programs  
+- C# Comments  
+- C# Basic Data Types  
+- C# Variables  
+- Arithmetic Operators  
+- Operator Precedence  
+- Type Conversion  
+- Taking User Input in Programs  
 
 Date:23-01-25:  
 1. C# Control Flows  
@@ -87,13 +87,19 @@ Date:30-01-25:
 13. Checked Exceptions  
 
 Date:31-01-25:  
-Introduce a few common built-in functions - Random, Math  
-Introduce Date and time are essential in many applications.  
-From showing the current date on a website to scheduling events.  
-Procedural vs Object-oriented Programming Language  
-Class and Object  
+- Introduce a few common built-in functions - Random, Math  
+- Introduce Date and time are essential in many applications.  
+- From showing the current date on a website to scheduling events.  
+- Procedural vs Object-oriented Programming Language  
+- Class and Object  
 
 Date:02-02-25:  
 - C# Constructors,   
 - Instance vs. Class Variables,   
 - Access Modifiers Concepts  
+
+Date:04-02-25:  
+- this  
+- static   
+- sealed   
+- is operator  
