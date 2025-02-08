@@ -104,9 +104,19 @@ Date:04-02-25:
 - sealed   
 - is operator  
 
-Date:05-02-25:
+Date:06-02-25:  
 Object Oriented Design Principles  
 - Class Diagram  
 - Object Diagrams  
-- Sequence Diagrams  
+- Sequence Diagrams.  
 
+Date:08-02-25:  
+- Inheritance  
+- Single Level Inheritance  
+- Multilevel Inheritance  
+- Hierarchical Inheritance  
+- Key Features of Inheritance  
+- Method Overriding  
+- Constructor Inheritance in C#  
+- Polymorphism and Inheritance  
+ - Access Modifiers and Inheritance  
