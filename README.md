@@ -103,3 +103,10 @@ Date:04-02-25:
 - static   
 - sealed   
 - is operator  
+
+Date:05-02-25:
+Object Oriented Design Principles  
+- Class Diagram  
+- Object Diagrams  
+- Sequence Diagrams  
+
