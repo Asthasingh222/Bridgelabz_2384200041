@@ -131,3 +131,9 @@ Date:12-02-25:
 - Single Linked List  
 - Double Linked List  
 - Circular Linked List  
+
+Date:13-02-25:  
+- Stack  
+- Queue  
+- HashMap(known as Dictionary)  
+- Hash Function  
