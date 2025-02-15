@@ -143,3 +143,11 @@ Date:14-02-25:
 - Insertion Sort,  
 - Merge Sort, and  
 - Quick Sort  
+
+Date:15-02-25:  
+- StringBuilder  
+- StringBuffer  
+- FileReader  
+- InputStreamReader  
+- Linear Search   
+- Binary Search  
