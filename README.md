@@ -152,6 +152,9 @@ Date:15-02-25:
 - Linear Search   
 - Binary Search  
 
-Date:16-02-25:  
+Date:17-02-25:  
 - General Algorithm Best Practices  
 - Time and space Complexity Optimization  
+
+Date:18-02-25:  
+- Generics  
