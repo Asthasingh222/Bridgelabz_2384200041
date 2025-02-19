@@ -151,3 +151,7 @@ Date:15-02-25:
 - InputStreamReader  
 - Linear Search   
 - Binary Search  
+
+Date:16-02-25:  
+- General Algorithm Best Practices  
+- Time and space Complexity Optimization  
