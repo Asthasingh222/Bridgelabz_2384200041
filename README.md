@@ -176,3 +176,12 @@ Date:20-02-25:
 3. ByteArray Streams  
 4. Buffered Streams  
 5. Reader and Writer  
+
+Date:21-02-25:  
+- Handling Exceptions   
+- try-catch blocks  
+- try-catch-finally blocks  
+- try-with-resources statement  
+- throw statement  
+- Creating Custom Exceptions  
+- Extending Exception Class  
