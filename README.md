@@ -185,3 +185,10 @@ Date:21-02-25:
 - throw statement  
 - Creating Custom Exceptions  
 - Extending Exception Class  
+
+Date:22-02-25:  
+- C# Regex, Pattern, Matcher  
+- Methods:find(),match(),replaceAll()  
+- NUnit Annotations  
+- Writing Test Cases  
+- Structure of a Test Class  
