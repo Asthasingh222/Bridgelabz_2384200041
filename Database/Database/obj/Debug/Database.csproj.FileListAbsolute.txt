@@ -1,0 +1,7 @@
+C:\Users\astha\source\repos\Database\Database\bin\Debug\Database.exe.config
+C:\Users\astha\source\repos\Database\Database\bin\Debug\Database.exe
+C:\Users\astha\source\repos\Database\Database\bin\Debug\Database.pdb
+C:\Users\astha\source\repos\Database\Database\obj\Debug\Database.csproj.AssemblyReference.cache
+C:\Users\astha\source\repos\Database\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+C:\Users\astha\source\repos\Database\Database\obj\Debug\Database.exe
+C:\Users\astha\source\repos\Database\Database\obj\Debug\Database.pdb

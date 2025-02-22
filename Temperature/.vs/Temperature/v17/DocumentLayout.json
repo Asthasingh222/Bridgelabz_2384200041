@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\astha\\source\\repos\\Temperature\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF296184-C365-4EEA-AA89-890C7CF62816}|Temperature\\Temperature.csproj|c:\\users\\astha\\source\\repos\\temperature\\temperature\\temperatureconvert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF296184-C365-4EEA-AA89-890C7CF62816}|Temperature\\Temperature.csproj|solutionrelative:temperature\\temperatureconvert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F35FD4-C509-49ED-A000-5E3021A0E455}|Testing\\Testing.csproj|c:\\users\\astha\\source\\repos\\temperature\\testing\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0F35FD4-C509-49ED-A000-5E3021A0E455}|Testing\\Testing.csproj|solutionrelative:testing\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF296184-C365-4EEA-AA89-890C7CF62816}|Temperature\\Temperature.csproj|c:\\users\\astha\\source\\repos\\temperature\\temperature\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF296184-C365-4EEA-AA89-890C7CF62816}|Temperature\\Temperature.csproj|solutionrelative:temperature\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\astha\\source\\repos\\Temperature\\Testing\\Class1.cs",
+              "RelativeDocumentMoniker": "Testing\\Class1.cs",
+              "ToolTip": "C:\\Users\\astha\\source\\repos\\Temperature\\Testing\\Class1.cs",
+              "RelativeToolTip": "Testing\\Class1.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAADwvyYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:22:26.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TemperatureConvert.cs",
+              "DocumentMoniker": "C:\\Users\\astha\\source\\repos\\Temperature\\Temperature\\TemperatureConvert.cs",
+              "RelativeDocumentMoniker": "Temperature\\TemperatureConvert.cs",
+              "ToolTip": "C:\\Users\\astha\\source\\repos\\Temperature\\Temperature\\TemperatureConvert.cs",
+              "RelativeToolTip": "Temperature\\TemperatureConvert.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:21:16.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\astha\\source\\repos\\Temperature\\Temperature\\Program.cs",
+              "RelativeDocumentMoniker": "Temperature\\Program.cs",
+              "ToolTip": "C:\\Users\\astha\\source\\repos\\Temperature\\Temperature\\Program.cs",
+              "RelativeToolTip": "Temperature\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:20:43.922Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

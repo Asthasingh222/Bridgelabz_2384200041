@@ -1,0 +1,2 @@
+C:\Users\astha\source\repos\Numbersystem\NumberTest\obj\Debug\NumberTest.csproj.AssemblyReference.cache
+C:\Users\astha\source\repos\Numbersystem\NumberTest\obj\Debug\NumberTest.csproj.CoreCompileInputs.cache

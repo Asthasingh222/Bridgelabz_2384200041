@@ -1,0 +1,7 @@
+C:\Users\astha\source\repos\Performance\Performance\bin\Debug\Performance.exe.config
+C:\Users\astha\source\repos\Performance\Performance\bin\Debug\Performance.exe
+C:\Users\astha\source\repos\Performance\Performance\bin\Debug\Performance.pdb
+C:\Users\astha\source\repos\Performance\Performance\obj\Debug\Performance.csproj.AssemblyReference.cache
+C:\Users\astha\source\repos\Performance\Performance\obj\Debug\Performance.csproj.CoreCompileInputs.cache
+C:\Users\astha\source\repos\Performance\Performance\obj\Debug\Performance.exe
+C:\Users\astha\source\repos\Performance\Performance\obj\Debug\Performance.pdb

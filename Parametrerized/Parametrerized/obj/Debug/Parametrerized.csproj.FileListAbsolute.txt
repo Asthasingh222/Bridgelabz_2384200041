@@ -1,0 +1,7 @@
+C:\Users\astha\source\repos\Parametrerized\Parametrerized\bin\Debug\Parametrerized.exe.config
+C:\Users\astha\source\repos\Parametrerized\Parametrerized\bin\Debug\Parametrerized.exe
+C:\Users\astha\source\repos\Parametrerized\Parametrerized\bin\Debug\Parametrerized.pdb
+C:\Users\astha\source\repos\Parametrerized\Parametrerized\obj\Debug\Parametrerized.csproj.AssemblyReference.cache
+C:\Users\astha\source\repos\Parametrerized\Parametrerized\obj\Debug\Parametrerized.csproj.CoreCompileInputs.cache
+C:\Users\astha\source\repos\Parametrerized\Parametrerized\obj\Debug\Parametrerized.exe
+C:\Users\astha\source\repos\Parametrerized\Parametrerized\obj\Debug\Parametrerized.pdb

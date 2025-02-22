@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\astha\\source\\repos\\Database\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4794EC4-6311-445B-BECA-F2C713FA30B6}|DatabaseTest\\DatabaseTest.csproj|c:\\users\\astha\\source\\repos\\database\\databasetest\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4794EC4-6311-445B-BECA-F2C713FA30B6}|DatabaseTest\\DatabaseTest.csproj|solutionrelative:databasetest\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37803243-1E05-4B59-9E6D-FFA1976B1538}|Database\\Database.csproj|c:\\users\\astha\\source\\repos\\database\\database\\databasecon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37803243-1E05-4B59-9E6D-FFA1976B1538}|Database\\Database.csproj|solutionrelative:database\\databasecon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37803243-1E05-4B59-9E6D-FFA1976B1538}|Database\\Database.csproj|c:\\users\\astha\\source\\repos\\database\\database\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37803243-1E05-4B59-9E6D-FFA1976B1538}|Database\\Database.csproj|solutionrelative:database\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\astha\\source\\repos\\Database\\DatabaseTest\\Class1.cs",
+              "RelativeDocumentMoniker": "DatabaseTest\\Class1.cs",
+              "ToolTip": "C:\\Users\\astha\\source\\repos\\Database\\DatabaseTest\\Class1.cs",
+              "RelativeToolTip": "DatabaseTest\\Class1.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAASwCgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T14:00:52.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatabaseCon.cs",
+              "DocumentMoniker": "C:\\Users\\astha\\source\\repos\\Database\\Database\\DatabaseCon.cs",
+              "RelativeDocumentMoniker": "Database\\DatabaseCon.cs",
+              "ToolTip": "C:\\Users\\astha\\source\\repos\\Database\\Database\\DatabaseCon.cs",
+              "RelativeToolTip": "Database\\DatabaseCon.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T13:59:53.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\astha\\source\\repos\\Database\\Database\\Program.cs",
+              "RelativeDocumentMoniker": "Database\\Program.cs",
+              "ToolTip": "C:\\Users\\astha\\source\\repos\\Database\\Database\\Program.cs",
+              "RelativeToolTip": "Database\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T13:59:32.2Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\astha\source\repos\Divide\Divide\bin\Debug\Divide.exe.config
+C:\Users\astha\source\repos\Divide\Divide\bin\Debug\Divide.exe
+C:\Users\astha\source\repos\Divide\Divide\bin\Debug\Divide.pdb
+C:\Users\astha\source\repos\Divide\Divide\obj\Debug\Divide.csproj.AssemblyReference.cache
+C:\Users\astha\source\repos\Divide\Divide\obj\Debug\Divide.csproj.CoreCompileInputs.cache
+C:\Users\astha\source\repos\Divide\Divide\obj\Debug\Divide.exe
+C:\Users\astha\source\repos\Divide\Divide\obj\Debug\Divide.pdb

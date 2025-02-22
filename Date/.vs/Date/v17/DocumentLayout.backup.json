@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\astha\\source\\repos\\Date\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC88A1B-83BF-43AB-B84C-5956F5CBF45D}|Testing\\Testing.csproj|c:\\users\\astha\\source\\repos\\date\\testing\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FC88A1B-83BF-43AB-B84C-5956F5CBF45D}|Testing\\Testing.csproj|solutionrelative:testing\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF8A5E22-DFA1-4E07-8159-6FE54520FD8E}|Date\\Date.csproj|c:\\users\\astha\\source\\repos\\date\\date\\dateformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF8A5E22-DFA1-4E07-8159-6FE54520FD8E}|Date\\Date.csproj|solutionrelative:date\\dateformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF8A5E22-DFA1-4E07-8159-6FE54520FD8E}|Date\\Date.csproj|c:\\users\\astha\\source\\repos\\date\\date\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF8A5E22-DFA1-4E07-8159-6FE54520FD8E}|Date\\Date.csproj|solutionrelative:date\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\astha\\source\\repos\\Date\\Testing\\Class1.cs",
+              "RelativeDocumentMoniker": "Testing\\Class1.cs",
+              "ToolTip": "C:\\Users\\astha\\source\\repos\\Date\\Testing\\Class1.cs",
+              "RelativeToolTip": "Testing\\Class1.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:28:50.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DateFormatter.cs",
+              "DocumentMoniker": "C:\\Users\\astha\\source\\repos\\Date\\Date\\DateFormatter.cs",
+              "RelativeDocumentMoniker": "Date\\DateFormatter.cs",
+              "ToolTip": "C:\\Users\\astha\\source\\repos\\Date\\Date\\DateFormatter.cs",
+              "RelativeToolTip": "Date\\DateFormatter.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:28:00.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\astha\\source\\repos\\Date\\Date\\Program.cs",
+              "RelativeDocumentMoniker": "Date\\Program.cs",
+              "ToolTip": "C:\\Users\\astha\\source\\repos\\Date\\Date\\Program.cs",
+              "RelativeToolTip": "Date\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:27:33.081Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

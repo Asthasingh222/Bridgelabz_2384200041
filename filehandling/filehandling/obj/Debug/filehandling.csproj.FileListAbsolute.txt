@@ -1,0 +1,7 @@
+C:\Users\astha\source\repos\filehandling\filehandling\bin\Debug\filehandling.exe.config
+C:\Users\astha\source\repos\filehandling\filehandling\bin\Debug\filehandling.exe
+C:\Users\astha\source\repos\filehandling\filehandling\bin\Debug\filehandling.pdb
+C:\Users\astha\source\repos\filehandling\filehandling\obj\Debug\filehandling.csproj.AssemblyReference.cache
+C:\Users\astha\source\repos\filehandling\filehandling\obj\Debug\filehandling.csproj.CoreCompileInputs.cache
+C:\Users\astha\source\repos\filehandling\filehandling\obj\Debug\filehandling.exe
+C:\Users\astha\source\repos\filehandling\filehandling\obj\Debug\filehandling.pdb

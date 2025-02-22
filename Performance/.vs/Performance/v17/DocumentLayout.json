@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\astha\\source\\repos\\Performance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C51386D-7F64-4F66-B573-9B872B8ED396}|Performance\\Performance.csproj|c:\\users\\astha\\source\\repos\\performance\\performance\\performancetester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C51386D-7F64-4F66-B573-9B872B8ED396}|Performance\\Performance.csproj|solutionrelative:performance\\performancetester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C51386D-7F64-4F66-B573-9B872B8ED396}|Performance\\Performance.csproj|c:\\users\\astha\\source\\repos\\performance\\performance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C51386D-7F64-4F66-B573-9B872B8ED396}|Performance\\Performance.csproj|solutionrelative:performance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BEFE24D-7CA7-4C50-A1FE-5AF7572E815F}|Testing\\Testing.csproj|c:\\users\\astha\\source\\repos\\performance\\testing\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BEFE24D-7CA7-4C50-A1FE-5AF7572E815F}|Testing\\Testing.csproj|solutionrelative:testing\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\astha\\source\\repos\\Performance\\Testing\\Class1.cs",
+              "RelativeDocumentMoniker": "Testing\\Class1.cs",
+              "ToolTip": "C:\\Users\\astha\\source\\repos\\Performance\\Testing\\Class1.cs",
+              "RelativeToolTip": "Testing\\Class1.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T14:19:05.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PerformanceTester.cs",
+              "DocumentMoniker": "C:\\Users\\astha\\source\\repos\\Performance\\Performance\\PerformanceTester.cs",
+              "RelativeDocumentMoniker": "Performance\\PerformanceTester.cs",
+              "ToolTip": "C:\\Users\\astha\\source\\repos\\Performance\\Performance\\PerformanceTester.cs",
+              "RelativeToolTip": "Performance\\PerformanceTester.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T14:18:22.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\astha\\source\\repos\\Performance\\Performance\\Program.cs",
+              "RelativeDocumentMoniker": "Performance\\Program.cs",
+              "ToolTip": "C:\\Users\\astha\\source\\repos\\Performance\\Performance\\Program.cs",
+              "RelativeToolTip": "Performance\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T14:17:47.617Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

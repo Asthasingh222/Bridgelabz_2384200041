@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\astha\\source\\repos\\Numbersystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{385B4973-1870-4263-A25C-7F97B168C014}|Numbersystem\\Numbersystem.csproj|C:\\Users\\astha\\source\\repos\\Numbersystem\\Numbersystem\\Number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{385B4973-1870-4263-A25C-7F97B168C014}|Numbersystem\\Numbersystem.csproj|solutionrelative:Numbersystem\\Number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{385B4973-1870-4263-A25C-7F97B168C014}|Numbersystem\\Numbersystem.csproj|c:\\users\\astha\\source\\repos\\numbersystem\\numbersystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{385B4973-1870-4263-A25C-7F97B168C014}|Numbersystem\\Numbersystem.csproj|solutionrelative:numbersystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\astha\\source\\repos\\Numbersystem\\Numbersystem\\Program.cs",
+              "RelativeDocumentMoniker": "Numbersystem\\Program.cs",
+              "ToolTip": "C:\\Users\\astha\\source\\repos\\Numbersystem\\Numbersystem\\Program.cs",
+              "RelativeToolTip": "Numbersystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T09:32:15.024Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Number.cs",
+              "DocumentMoniker": "C:\\Users\\astha\\source\\repos\\Numbersystem\\Numbersystem\\Number.cs",
+              "RelativeDocumentMoniker": "Numbersystem\\Number.cs",
+              "ToolTip": "C:\\Users\\astha\\source\\repos\\Numbersystem\\Numbersystem\\Number.cs",
+              "RelativeToolTip": "Numbersystem\\Number.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvxYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T09:33:00.714Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
