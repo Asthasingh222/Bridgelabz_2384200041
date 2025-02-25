@@ -196,3 +196,9 @@ Date:22-02-25:
 Date:24-02-25:  
 - Reflection  
 - Annotations  
+
+Date:25-02-25:  
+- Reading CSV Files  
+- Writing CSV Files  
+- Parsing CSV Data  
+- Data Validation  
