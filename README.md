@@ -202,3 +202,10 @@ Date:25-02-25:
 - Writing CSV Files  
 - Parsing CSV Data  
 - Data Validation  
+
+Date:26-02-25:  
+- Introduction to JSON  
+- Reading JSON Data  
+- Writing JSON Data  
+- Parsing JSON Data  
+- JSON Schema Validation  
