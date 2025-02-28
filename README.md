@@ -209,3 +209,6 @@ Date:26-02-25:
 - Writing JSON Data  
 - Parsing JSON Data  
 - JSON Schema Validation  
+
+Date:28-02-25:  
+- Create an API for User Registration System  
