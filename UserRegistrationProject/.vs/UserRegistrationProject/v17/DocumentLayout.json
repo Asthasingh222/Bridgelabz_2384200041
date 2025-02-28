@@ -3,18 +3,27 @@
   "WorkspaceRootPath": "C:\\Users\\astha\\source\\repos\\UserRegistrationProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7C335A4F-560D-45B0-8655-24BBCE61B831}|..\\BusinessLayer_\\BusinessLayer_.csproj|c:\\users\\astha\\source\\repos\\businesslayer_\\service\\userregistrationbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E88776C4-2002-4DC9-A298-2D673AE3E829}|UserRegistrationProject.csproj|c:\\users\\astha\\source\\repos\\userregistrationproject\\controllers\\userregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88776C4-2002-4DC9-A298-2D673AE3E829}|UserRegistrationProject.csproj|solutionrelative:controllers\\userregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B8DBA898-C6D3-4BA8-BCB7-FAE71879ABB5}|..\\Repository_Layer\\Repository_Layer.csproj|c:\\users\\astha\\source\\repos\\repository_layer\\service\\userregistrationrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E88776C4-2002-4DC9-A298-2D673AE3E829}|UserRegistrationProject.csproj|c:\\users\\astha\\source\\repos\\userregistrationproject\\controllers\\userregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E88776C4-2002-4DC9-A298-2D673AE3E829}|UserRegistrationProject.csproj|solutionrelative:controllers\\userregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A75BE432-0835-4427-B24B-779D5126C00E}|..\\Model_Layer\\Model_Layer.csproj|c:\\users\\astha\\source\\repos\\model_layer\\dto\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75BE432-0835-4427-B24B-779D5126C00E}|..\\Model_Layer\\Model_Layer.csproj|c:\\users\\astha\\source\\repos\\model_layer\\dto\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C335A4F-560D-45B0-8655-24BBCE61B831}|..\\BusinessLayer_\\BusinessLayer_.csproj|c:\\users\\astha\\source\\repos\\businesslayer_\\service\\userregistrationbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E88776C4-2002-4DC9-A298-2D673AE3E829}|UserRegistrationProject.csproj|c:\\users\\astha\\source\\repos\\userregistrationproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E88776C4-2002-4DC9-A298-2D673AE3E829}|UserRegistrationProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8DBA898-C6D3-4BA8-BCB7-FAE71879ABB5}|..\\Repository_Layer\\Repository_Layer.csproj|c:\\users\\astha\\source\\repos\\repository_layer\\repository_layer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,17 +33,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\astha\\source\\repos\\UserRegistrationProject\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\astha\\source\\repos\\UserRegistrationProject\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T16:35:03.88Z",
               "IsPinned": true,
@@ -42,13 +51,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "UserRegistrationBL.cs",
+              "DocumentMoniker": "C:\\Users\\astha\\source\\repos\\BusinessLayer_\\Service\\UserRegistrationBL.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer_\\Service\\UserRegistrationBL.cs",
+              "ToolTip": "C:\\Users\\astha\\source\\repos\\BusinessLayer_\\Service\\UserRegistrationBL.cs",
+              "RelativeToolTip": "..\\BusinessLayer_\\Service\\UserRegistrationBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:29:19.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "UserRegistrationController.cs",
               "DocumentMoniker": "C:\\Users\\astha\\source\\repos\\UserRegistrationProject\\Controllers\\UserRegistrationController.cs",
               "RelativeDocumentMoniker": "Controllers\\UserRegistrationController.cs",
-              "ToolTip": "C:\\Users\\astha\\source\\repos\\UserRegistrationProject\\Controllers\\UserRegistrationController.cs*",
-              "RelativeToolTip": "Controllers\\UserRegistrationController.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\astha\\source\\repos\\UserRegistrationProject\\Controllers\\UserRegistrationController.cs",
+              "RelativeToolTip": "Controllers\\UserRegistrationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T15:32:17.715Z",
               "EditorCaption": ""
@@ -59,24 +81,50 @@
               "Title": "UserRegistrationRL.cs",
               "DocumentMoniker": "C:\\Users\\astha\\source\\repos\\Repository_Layer\\Service\\UserRegistrationRL.cs",
               "RelativeDocumentMoniker": "..\\Repository_Layer\\Service\\UserRegistrationRL.cs",
-              "ToolTip": "C:\\Users\\astha\\source\\repos\\Repository_Layer\\Service\\UserRegistrationRL.cs*",
-              "RelativeToolTip": "..\\Repository_Layer\\Service\\UserRegistrationRL.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\astha\\source\\repos\\Repository_Layer\\Service\\UserRegistrationRL.cs",
+              "RelativeToolTip": "..\\Repository_Layer\\Service\\UserRegistrationRL.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvxYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T16:29:47.868Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserRegistrationBL.cs",
-              "DocumentMoniker": "C:\\Users\\astha\\source\\repos\\BusinessLayer_\\Service\\UserRegistrationBL.cs",
-              "RelativeDocumentMoniker": "..\\BusinessLayer_\\Service\\UserRegistrationBL.cs",
-              "ToolTip": "C:\\Users\\astha\\source\\repos\\BusinessLayer_\\Service\\UserRegistrationBL.cs",
-              "RelativeToolTip": "..\\BusinessLayer_\\Service\\UserRegistrationBL.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "RegisterUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\astha\\source\\repos\\Model_Layer\\DTO\\RegisterUserDTO.cs",
+              "RelativeDocumentMoniker": "..\\Model_Layer\\DTO\\RegisterUserDTO.cs",
+              "ToolTip": "C:\\Users\\astha\\source\\repos\\Model_Layer\\DTO\\RegisterUserDTO.cs",
+              "RelativeToolTip": "..\\Model_Layer\\DTO\\RegisterUserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T16:29:19.265Z",
+              "WhenOpened": "2025-02-28T11:07:28.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\astha\\source\\repos\\Model_Layer\\DTO\\ResponseModel.cs",
+              "RelativeDocumentMoniker": "..\\Model_Layer\\DTO\\ResponseModel.cs",
+              "ToolTip": "C:\\Users\\astha\\source\\repos\\Model_Layer\\DTO\\ResponseModel.cs",
+              "RelativeToolTip": "..\\Model_Layer\\DTO\\ResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T11:04:46.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Repository_Layer",
+              "DocumentMoniker": "C:\\Users\\astha\\source\\repos\\Repository_Layer\\Repository_Layer.csproj",
+              "RelativeDocumentMoniker": "..\\Repository_Layer\\Repository_Layer.csproj",
+              "ToolTip": "C:\\Users\\astha\\source\\repos\\Repository_Layer\\Repository_Layer.csproj",
+              "RelativeToolTip": "..\\Repository_Layer\\Repository_Layer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-28T11:11:21.851Z",
               "EditorCaption": ""
             }
           ]

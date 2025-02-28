@@ -15,9 +15,22 @@
           "bin/placeholder/BusinessLayer_.dll": {}
         }
       },
+      "Model_Layer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Model_Layer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Model_Layer.dll": {}
+        }
+      },
       "Repository_Layer/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Model_Layer": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Repository_Layer.dll": {}
         },
@@ -32,6 +45,11 @@
       "type": "project",
       "path": "../BusinessLayer_/BusinessLayer_.csproj",
       "msbuildProject": "../BusinessLayer_/BusinessLayer_.csproj"
+    },
+    "Model_Layer/1.0.0": {
+      "type": "project",
+      "path": "../Model_Layer/Model_Layer.csproj",
+      "msbuildProject": "../Model_Layer/Model_Layer.csproj"
     },
     "Repository_Layer/1.0.0": {
       "type": "project",

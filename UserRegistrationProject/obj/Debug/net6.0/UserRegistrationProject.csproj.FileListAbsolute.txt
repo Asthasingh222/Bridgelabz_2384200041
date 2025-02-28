@@ -33,3 +33,5 @@ C:\Users\astha\source\repos\UserRegistrationProject\obj\Debug\net6.0\refint\User
 C:\Users\astha\source\repos\UserRegistrationProject\obj\Debug\net6.0\UserRegistrationProject.pdb
 C:\Users\astha\source\repos\UserRegistrationProject\obj\Debug\net6.0\UserRegistrationProject.genruntimeconfig.cache
 C:\Users\astha\source\repos\UserRegistrationProject\obj\Debug\net6.0\ref\UserRegistrationProject.dll
+C:\Users\astha\source\repos\UserRegistrationProject\bin\Debug\net6.0\Model_Layer.dll
+C:\Users\astha\source\repos\UserRegistrationProject\bin\Debug\net6.0\Model_Layer.pdb
