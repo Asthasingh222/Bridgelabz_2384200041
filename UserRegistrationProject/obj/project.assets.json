@@ -1,0 +1,127 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "BusinessLayer_/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Repository_Layer": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BusinessLayer_.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BusinessLayer_.dll": {}
+        }
+      },
+      "Repository_Layer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Repository_Layer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Repository_Layer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BusinessLayer_/1.0.0": {
+      "type": "project",
+      "path": "../BusinessLayer_/BusinessLayer_.csproj",
+      "msbuildProject": "../BusinessLayer_/BusinessLayer_.csproj"
+    },
+    "Repository_Layer/1.0.0": {
+      "type": "project",
+      "path": "../Repository_Layer/Repository_Layer.csproj",
+      "msbuildProject": "../Repository_Layer/Repository_Layer.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "BusinessLayer_ >= 1.0.0",
+      "Repository_Layer >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\astha\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\astha\\source\\repos\\UserRegistrationProject\\UserRegistrationProject.csproj",
+      "projectName": "UserRegistrationProject",
+      "projectPath": "C:\\Users\\astha\\source\\repos\\UserRegistrationProject\\UserRegistrationProject.csproj",
+      "packagesPath": "C:\\Users\\astha\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\astha\\source\\repos\\UserRegistrationProject\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\astha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\astha\\source\\repos\\BusinessLayer_\\BusinessLayer_.csproj": {
+              "projectPath": "C:\\Users\\astha\\source\\repos\\BusinessLayer_\\BusinessLayer_.csproj"
+            },
+            "C:\\Users\\astha\\source\\repos\\Repository_Layer\\Repository_Layer.csproj": {
+              "projectPath": "C:\\Users\\astha\\source\\repos\\Repository_Layer\\Repository_Layer.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.100"
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

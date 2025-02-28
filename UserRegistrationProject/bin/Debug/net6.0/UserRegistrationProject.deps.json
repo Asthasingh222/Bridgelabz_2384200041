@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "UserRegistrationProject/1.0.0": {
+        "dependencies": {
+          "BusinessLayer_": "1.0.0",
+          "Repository_Layer": "1.0.0"
+        },
+        "runtime": {
+          "UserRegistrationProject.dll": {}
+        }
+      },
+      "BusinessLayer_/1.0.0": {
+        "dependencies": {
+          "Repository_Layer": "1.0.0"
+        },
+        "runtime": {
+          "BusinessLayer_.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Repository_Layer/1.0.0": {
+        "runtime": {
+          "Repository_Layer.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UserRegistrationProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BusinessLayer_/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Repository_Layer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
