@@ -212,3 +212,7 @@ Date:26-02-25:
 
 Date:28-02-25:  
 - Create an API for User Registration System  
+
+Date:02-03-25:  
+-User Registration System with sql connection and Nlog  
+
