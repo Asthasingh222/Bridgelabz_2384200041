@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "UserRegistrationProject.Controllers.UserRegistrationController",
+    "Method": "Get",
+    "RelativePath": "api/UserRegistration",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UserRegistrationProject.Controllers.UserRegistrationController",
+    "Method": "RegisterUser",
+    "RelativePath": "api/UserRegistration",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "registerUserDTO",
+        "Type": "Model_Layer.DTO.RegisterUserDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
