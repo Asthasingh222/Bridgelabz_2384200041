@@ -1,0 +1,39 @@
+[
+  {
+    "ContainingType": "Review.Controllers.ReviewController",
+    "Method": "RegisterEmployee",
+    "RelativePath": "Review/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employeeDTO",
+        "Type": "ModelLayer.DTO.EmployeeDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Review.Controllers.ReviewController",
+    "Method": "UpdateEmployee",
+    "RelativePath": "Review/update/{id}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "empModel",
+        "Type": "ModelLayer.DTO.EmployeeDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
