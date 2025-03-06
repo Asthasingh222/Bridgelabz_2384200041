@@ -218,3 +218,6 @@ Date:02-03-25:
 
 Date:03-03-25:  
 - User Registration App with Login and Registration API along with swagger,Nlog and SQl connection
+
+Date:06-03-25:  
+- Redish implemented in .net project
