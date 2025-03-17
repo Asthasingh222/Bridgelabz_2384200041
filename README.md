@@ -221,3 +221,10 @@ Date:03-03-25:
 
 Date:06-03-25:  
 - Redish implemented in .net project
+
+Date:17-03-25:  
+- Node Debugger. How to debug a JS code  
+- JS Data Types  
+- Programming Constructs  
+- Simple Statements, Conditional Statements and Loops  
+- Functions and Function Expressions  
