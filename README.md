@@ -228,3 +228,7 @@ Date:17-03-25:
 - Programming Constructs  
 - Simple Statements, Conditional Statements and Loops  
 - Functions and Function Expressions  
+
+Date:18-03-25:  
+- array and map data structures in Js  
+
