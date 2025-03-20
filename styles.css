@@ -1,0 +1,156 @@
+* {
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: row;
+    margin: 0;
+}
+
+/* Sidebar Navigation */
+/* Sidebar Navigation - Make it Sticky */
+.col-1 {
+    background: #D7E8D4;
+    flex: 1;
+    padding: 1em;
+    text-align: center;
+    position: sticky;
+    top: 0;
+    height: 100vh;  /* Ensures it covers full height */
+    overflow-y: auto; /* Allows scrolling if needed */
+}
+
+
+.col-1 ul {
+    list-style: none;
+    padding: 0;
+}
+
+.col-1 ul li {
+    margin: 20px 0;
+}
+
+.col-1 ul li a {
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+
+.col-1 ul li a:hover {
+    color: green;
+}
+
+/* Main content */
+.col-2 {
+    display: flex;
+    flex-direction: column;
+    flex: 5;
+}
+
+.content{
+    font-size: 20px;
+    font-weight:500;
+    margin: 0;
+}
+/* Header */
+header {
+    background: yellowgreen;
+    height: 20vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+/* Keeping the logo alignment unchanged */
+.header-content {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+    margin: 0;
+}
+
+/* Content Styling */
+article {
+    padding: 2em;
+    text-align: left;
+}
+
+/* Photo Gallery */
+.photo-gallery {
+    padding: 2em;
+    text-align: center;
+}
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+}
+
+.cards img {
+    margin: 10px;
+    border: 3px solid #000;
+    box-shadow: 3px 3px 8px 0px rgba(0, 0, 0, 0.3);
+    max-width: 25vw;
+    border-radius: 8px;
+}
+
+/* Our Services Section */
+.services {
+    padding: 2em;
+    text-align: center;
+}
+
+.cards .card {
+    flex: 0 0 200px;
+    margin: 10px;
+    border: 1px solid #ccc;
+    box-shadow: 2px 2px 6px 0px rgba(0,0,0,0.3);
+    text-align: center;
+}
+
+.card img {
+    max-width: 100%;
+}
+
+.card .text {
+    padding: 15px;
+}
+
+.card button {
+    background: gray;
+    border: 0;
+    color: white;
+    padding: 10px;
+    width: 100%;
+    cursor: pointer;
+}
+
+/* Footer */
+footer {
+    background: yellowgreen;
+    height: 15vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+/* Keeping logo size unchanged */
+.logo {
+    width: 100px; /* Original size */
+    height: auto;
+}

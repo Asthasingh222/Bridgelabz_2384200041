@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BridgeLabz Page</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        .media-section {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            padding: 2em;
+        }
+        .media {
+            display: flex;
+            align-items: flex-start;
+            background: #F6F3EB;
+            padding: 1em;
+            border-radius: 3px;
+            max-width: 24em;
+            margin: 1em auto;
+        }
+        .media-object {
+            margin-right: .4em;
+            font-size: 4em;
+        }
+        .media-body {
+            flex: 1;
+        }
+        .media-heading {
+            margin: 0 0 .5em;
+        }
+    </style>
+</head>
+<body>
+    <nav class="col-1">
+        <ul>
+            <li><a href="#about">About Us</a></li>
+            <li><a href="#gallery">Photo Gallery</a></li>
+            <li><a href="#services">Our Services</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <div class="col-2">
+        <header>
+            <div class="header-content">
+                <h1>BridgeLabz is cool</h1>
+                <img src="logo.png" alt="BridgeLabz Logo" class="logo">
+            </div>
+        </header>
+
+        <!-- About Section -->
+        <main id="about" class="content">
+            <article>
+                <p>At BridgeLabz, we’re a techie community of:</p>
+                <ul>
+                    <li>Technologists</li>
+                    <li>Thinkers</li>
+                    <li>Builders</li>
+                </ul>
+                <p>
+                    Working together to keep the Tech Employability of Engineers alive and accessible, 
+                    so Tech Companies worldwide can get contributors and creators for Technology Solutions. 
+                    We believe this act of human collaboration across an employability platform is essential 
+                    to individual growth and our collective future.
+                </p>
+                <p>
+                    To Know about us, visit <a href="#">BridgeLabz</a> to learn even more about our mission i.e. 
+                    <strong>Employability to all.</strong>
+                </p>
+            </article>
+        </main>
+
+        <!-- Photo Gallery Section -->
+        <section id="gallery" class="photo-gallery">
+            <h2>Photo Gallery</h2>
+            <div class="cards">
+                <img src="img3.jpg" alt="Sample photo">
+                    <img src="img4.jpg" alt="Sample photo">
+                    <img src="img5.jpg" alt="Sample photo">
+                    <img src="img6.jpg" alt="Sample photo">
+                    <img src="img2.avif" alt="Sample photo">
+                    <img src="img1.jpg" alt="Sample photo">
+            </div>
+        </section>
+
+        <!-- Our Services Section with Flexbox Cards -->
+        <section id="services" class="services">
+            <h2>Our Services</h2>
+            <div class="cards">
+                <article class="card">
+                    <img src="training.jpeg" alt="Training">
+                    <div class="text">
+                        <h3>Technical Training</h3>
+                        <p>We provide hands-on training to enhance your coding and development skills.</p>
+                        <button>Learn More</button>
+                    </div>
+                </article>
+                <article class="card">
+                    <img src="expert.webp" alt="Mentorship">
+                    <div class="text">
+                        <h3>Expert Mentorship</h3>
+                        <p>Get guidance from industry experts to shape your career in tech.</p>
+                        <button>Get Mentorship</button>
+                    </div>
+                </article>
+                <article class="card">
+                    <img src="internship.jpeg" alt="Internship">
+                    <div class="text">
+                        <h3>Internship Programs</h3>
+                        <p>Gain real-world experience through our structured internship programs.</p>
+                        <button>Join Us</button>
+                    </div>
+                </article>
+                <article class="card">
+                    <img src="job.jpg" alt="Job Placements">
+                    <div class="text">
+                        <h3>Job Placements</h3>
+                        <p>We connect skilled engineers with top companies for employment.</p>
+                        <button>Apply Now</button>
+                    </div>
+                </article>
+                <article class="card">
+                    <img src="ai.jpg" alt="AI Solutions">
+                    <div class="text">
+                        <h3>AI-Powered Solutions</h3>
+                        <p>Innovate with AI-based projects and contribute to the future of technology.</p>
+                        <button>Explore AI</button>
+                    </div>
+                </article>
+            </div>
+        </section>
+
+        <!-- New Media Object Section -->
+<section class="media-section">
+    <div class="media">
+        <div class="media-object">&#x1F4BB;</div>
+        <div class="media-body">
+            <h3 class="media-heading">Tech Training</h3>
+            <p>We offer hands-on coding bootcamps to help developers grow their skills and stay ahead in the tech industry.</p>
+        </div>
+    </div>
+    <div class="media">
+        <div class="media-object">&#x1F3C1;</div>
+        <div class="media-body">
+            <h3 class="media-heading">Career Opportunities</h3>
+            <p>Our mentorship and placement programs help tech enthusiasts land their dream jobs in the best companies.</p>
+        </div>
+    </div>
+    <div class="media">
+        <div class="media-object">&#x1F916;</div>
+        <div class="media-body">
+            <h3 class="media-heading">AI Innovations</h3>
+            <p>We integrate AI-powered solutions into projects, helping businesses leverage the latest in artificial intelligence.</p>
+        </div>
+    </div>
+</section>
+
+
+        <!-- Footer -->
+        <footer id="contact">
+            <p>Contact Us: info@bridgelabz.com | Follow us on <a href="#">LinkedIn</a></p>
+        </footer>
+    </div>
+</body>
+</html>
