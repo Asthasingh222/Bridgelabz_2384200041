@@ -232,3 +232,6 @@ Date:17-03-25:
 Date:18-03-25:  
 - array and map data structures in Js  
 
+
+Date:20-03-25:  
+- HTML,css , Flexbox, media object, flexbox cards, flexbox gallery.  
